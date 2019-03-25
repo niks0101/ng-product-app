@@ -1,5 +1,4 @@
-# angular-7-jwt-authentication-example
-
-Angular 7 - JWT Authentication Example with Webpack 4
-
-To see a demo and further details go to http://jasonwatmore.com/post/2018/11/16/angular-7-jwt-authentication-example-tutorial"# ng-product-app" 
+Hi Ankita Please follow these steps
+1.Get the repository cloned from this git remote repository .
+2.Run npm install command you will get the updated node modules 
+3.npm start to start the application.
